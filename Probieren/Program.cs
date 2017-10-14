@@ -10,6 +10,10 @@ namespace Probieren
     {
         static void Main(string[] args)
         {
-        }
+
+            List<int> lockCombination = new List<~>();
+
+            public int MyProperty => 0;
+    }
     }
 }
